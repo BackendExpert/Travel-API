@@ -12,18 +12,20 @@
                         "id": 1,
                         "name": "By Express Way Bus",
                         "km": "25km",
-                        "time": "25 min"
+                        "time": "25 min",
+                        "price": "350.00"
                     },
                     {
                         "id": 2,
                         "name": "By Normal Way Bus",
                         "km": "38km",
-                        "time": "1.5 hours"
+                        "time": "1.5 hours",
+                        "price": "280.00"
                     }
                 ],
                 "train": "few trains but bus is recommended",
                 "taxi": [
-                    
+
                 ]
             }
         ]
