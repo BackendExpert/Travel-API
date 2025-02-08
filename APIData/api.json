@@ -24,8 +24,27 @@
                     }
                 ],
                 "train": "few trains but bus is recommended",
-                "taxi": [
+                "taxi": {
+                    "name": "Use Uber PickMe (recommended)",
+                    "charge": "minimum 1500.00",
+                    "important": "please don't use any Tuk Tuk (never recommended Tuk Tuk near by airport they scamming you)"
+                }
+            }
+        ],
 
+        "placestovisit": [
+            {
+                "id": 1,
+                "name": "Place 1",
+                "travel": [
+                    {
+                        "id": 1,
+                        "name": "Colomobo-Fort Train Station"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Colomobo Government Bus Stand"
+                    }
                 ]
             }
         ]
