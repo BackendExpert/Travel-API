@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "city": "Colombo",
+        "population": "450000",
+        "travelfrom": [
+            {
+                "id": 1,
+                "name": "From Airport",
+                "bus": [
+                    {
+                        "id": 1,
+                        "name": "By Express Way Bus",
+                        "km": "25km",
+                        "time": "25 min"
+                    },
+                    {
+                        "id": 2,
+                        "name": "By Normal Way Bus",
+                        "km": "38km",
+                        "time": "1.5 hours"
+                    }
+                ],
+                "train": "few trains but bus is recommended",
+                "taxi": [
+                    
+                ]
+            }
+        ]
+    }
+]
