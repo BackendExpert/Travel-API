@@ -13,14 +13,16 @@
                         "name": "By Express Way Bus",
                         "km": "25km",
                         "time": "25 min",
-                        "price": "350.00"
+                        "price": "350.00",
+                        "glocation": ""
                     },
                     {
                         "id": 2,
                         "name": "By Normal Way Bus",
                         "km": "38km",
                         "time": "1.5 hours",
-                        "price": "280.00"
+                        "price": "280.00",
+                        "glocation": ""
                     }
                 ],
                 "train": "few trains but bus is recommended",
