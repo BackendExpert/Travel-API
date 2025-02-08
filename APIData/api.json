@@ -42,13 +42,11 @@
                     {
                         "id": 1,
                         "name": "Colomobo-Fort Train Station",
-                        "km": "2km",
                         "glocation": ""
                     },
                     {
                         "id": 2,
                         "name": "Colomobo Government Bus Stand",
-                        "km": "2.5km",
                         "glocation": ""
                     }
                 ]
